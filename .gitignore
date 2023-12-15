@@ -1,0 +1,15 @@
+
+.ipynb_checkpoints/deliverytime-checkpoint.csv
+.ipynb_checkpoints/Predict_time_food_delivery-checkpoint.ipynb
+lightning_logs/version_0/events.out.tfevents.1702449884.RahulPC.9852.0
+lightning_logs/version_0/hparams.yaml
+lightning_logs/version_0/checkpoints/epoch=19-step=6420.ckpt
+lightning_logs/version_1/events.out.tfevents.1702450112.RahulPC.9852.1
+lightning_logs/version_1/hparams.yaml
+lightning_logs/version_1/checkpoints/epoch=49-step=16050.ckpt
+lightning_logs/version_2/events.out.tfevents.1702450550.RahulPC.9852.2
+lightning_logs/version_2/hparams.yaml
+lightning_logs/version_2/checkpoints/epoch=49-step=16050.ckpt
+lightning_logs/version_3/events.out.tfevents.1702651052.RahulPC.15328.0
+lightning_logs/version_3/hparams.yaml
+lightning_logs/version_3/checkpoints/epoch=199-step=8200.ckpt
